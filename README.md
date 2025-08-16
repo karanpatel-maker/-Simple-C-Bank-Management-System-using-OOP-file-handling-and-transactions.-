@@ -16,20 +16,23 @@ This is a console-based Bank Management System built in C++. It demonstrates the
 2.  Concepts: OOP, File Handling, Vectors, Menu-driven Programming.
 
 🚀 How to Run
-🔹 1. Clone this repository
+🔹 1. Clone this repository 
+
    git clone https://github.com/your-username/Bank-Management-System.git
 
 🔹 2. Navigate to the project folder
+
    cd Bank-Management-System
 
 🔹3.Compile the program
+
   g++ bank.cpp -o bank
   
 🔹4.Run the executable
   ./bank
 
 📂 File Structure
-Bank-Management-System/
+Bank-Management-System 
 │── bank.cpp          # Main source code
 │── README.md         # Project documentation
 │── *.txt             # Account data files (auto-created)
