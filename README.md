@@ -52,5 +52,7 @@ Bank-Management-System
 5. 🎨 GUI version using Qt/JavaFX
 
 👨‍💻 Author
+
 Karan Patel
+
 💡Passionate about C++ and building real-world applications.
